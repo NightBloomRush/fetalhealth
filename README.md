@@ -35,9 +35,9 @@ https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification<br>
 - histogram_max - *Максимальное значение гистограммы<br>*
 - histogram_number_of_peaks - *Количество пиков в гистограмме<br>*
 - histogram_number_of_zeroes - *Количество нулей в гистограмме<br>*
-- histogram_mode - *Гистограмма режимов<br>*
-- histogram_mean - *Гистограмма срених<br>*
-- histogram_median - *Гистограмма медиан<br>*
-- histogram_variance - *Гистограмма дисперсий<br>*
-- histogram_tendency - *Гистограмма тренда<br>*
+- histogram_mode - *Мода гистограммы<br>*
+- histogram_mean - *Среднее гистограммы<br>*
+- histogram_median - *Медиана гистограммы<br>*
+- histogram_variance - *Дисперсия гистограммы<br>*
+- histogram_tendency - *Тренд гистограммы<br>*
 - fetal_health - *Здоровье плода: 1 — Нормальное✔️; 2 — Подозрительное❔; 3 — Патологическое❌<br>*
